@@ -105,12 +105,16 @@ input {
 }
 
 li {
-    margin: 15px;
+    margin: 15px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
     color: #424249;
+}
+
+ul {
+    padding: 20px;
 }
 
